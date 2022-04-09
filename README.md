@@ -1,7 +1,3 @@
-# JogoDaVelha
-
-Projeto de Jogo da Velha Simples, apenas com HTML/CSS/JavaScript
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
